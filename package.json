@@ -1,0 +1,8 @@
+{
+  "name": "plant-disease-checker",
+  "version": "1.0.0",
+  "description": "Sistem Pengecekan Penyakit pada Tumbuhan - prototipe PKM-KC",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
