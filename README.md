@@ -20,3 +20,4 @@ BUKAN model CNN. Hasilnya hanya estimasi kasar.
   POST /api/predict di server.js yang meneruskan gambar ke layanan itu.
 - Keluaran yang diharapkan: { condition, confidence, info }.
 "# leaf12" 
+"# DRCZA" 
